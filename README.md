@@ -26,6 +26,6 @@ CC-BY-SA; digispark accredition to be supplied in fullness of time
 
 
 [digispark]: http://digistump.com/products/1
-[norns]: https://monome.org/norns
+[norns]: https://monome.org/docs/norns/
 [i2ctiny]: https://github.com/harbaum/I2C-Tiny-USB/blob/master/digispark/README.md
 [level-shifting]: https://www.nxp.com/docs/en/application-note/AN10441.pdf
