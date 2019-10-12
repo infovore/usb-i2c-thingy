@@ -18,6 +18,10 @@ nowhere near finished don't even think about using it.
 - ~~connect SDA/SCL to pins~~
 - break out programming header?
 - caps for 3.3V regulator?
+- add CCBYSA credits to board
+- add jack details (tip/ring) to board
+- routing
+- how do you program it? Mark the pins.
 
 ## LICENSE
 
